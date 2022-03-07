@@ -7,7 +7,7 @@ const wodSchema = new Schema(
   type: { type: String, required: true },
   description: { type: String, required: true },
   class: { type: String },
-  tag: {type: Array}, 
+  tags: {type: Array}, 
   workout: {type: Array},
   userAdded: {type: Boolean}
 },

@@ -23,7 +23,7 @@ const allRoutes = require("./routes/index.routes");
 app.use("/api", allRoutes);
 
 const wodRouter = require("./routes/wod.routes");
-app.use("/api", isAuthenticated, wodRouter); // <== UPDATE
+app.use("/api/wods", wodRouter); // <== UPDATE
 
 const authRouter = require("./routes/auth.routes"); //  <== IMPORT
 app.use("/auth", authRouter);

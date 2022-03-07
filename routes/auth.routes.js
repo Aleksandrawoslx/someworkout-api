@@ -1,5 +1,6 @@
 const router = require("express").Router();
 
+
 // ℹ️ Handles password encryption
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
@@ -41,7 +42,7 @@ router.post("/signup", (req, res, next) => {
   // }
 
   // Check the users collection if a user with the same email already exists
-  User.findOne({ email })
+  User.findOne({ email: email })
     .then((foundUser) => {
       // If the user with the same email already exists, send an error response
       if (foundUser) {
@@ -58,15 +59,18 @@ router.post("/signup", (req, res, next) => {
       return User.create({ email, password: hashedPassword, name });
     })
     .then((createdUser) => {
+      if (createdUser) {
+        const { email, name, _id } = createdUser;
+
+        // Create a new object that doesn't expose the password
+        const user = { email, name, _id };
+
+        // Send a json response containing the user object
+        res.status(201).json({ user: user });
+        return;
+      }
       // Deconstruct the newly created user object to omit the password
       // We should never expose passwords publicly
-      const { email, name, _id } = createdUser;
-
-      // Create a new object that doesn't expose the password
-      const user = { email, name, _id };
-
-      // Send a json response containing the user object
-      res.status(201).json({ user: user });
     })
     .catch((err) => {
       console.log(err);
