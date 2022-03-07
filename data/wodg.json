@@ -10,7 +10,7 @@
             {"move": "T2B", "reps": 25},
             {"move": "American Swings", "reps": 50}
         ],
-        "tag": [
+        "tags": [
             "thruster", "T2B", "American Swings", "for time"
         ],
         "userAdded": false
@@ -28,7 +28,7 @@
             {"move": "row", "reps": "20/15 cal"},
             {"move": "burpee over the row", "reps": 16}
         ],
-        "tag": [
+        "tags": [
             "airbike", "row", "burpee over the row", "for time"
         ],
         "userAdded": false
@@ -47,7 +47,7 @@
             {"move": "power clean", "reps": 9},
             {"move": "burpee box jump over", "reps": 9}
         ],
-        "tag": [
+        "tags": [
             "power clean", "burpee box jump over", "for time"
         ],
         "userAdded": false
@@ -65,7 +65,7 @@
             {"move": "shoulder to overhead", "reps": "20 m"},
             {"move": "push-up", "reps": 20}
         ],
-        "tag": [
+        "tags": [
             "power clean", "burpee box jump over", "for time"
         ],
         "userAdded": false
@@ -84,7 +84,7 @@
             {"move":"box jump over", "reps": 10},
             {"move":"sit up", "reps": 10}
         ],
-        "tag": [
+        "tags": [
             "box jump over", "sit up", "for time"
         ],
         "userAdded": false
@@ -100,7 +100,7 @@
             {"move": "dumbell snatch", "reps": 25},
             {"move": "front squat", "reps": 15}
         ],
-        "tag": [
+        "tags": [
             "double unders", "dumbell snatch", "front squat", "for time"
         ],
         "userAdded": false
@@ -119,7 +119,7 @@
             {"move": "wall ball", "reps": 40},
             {"move": "double unders", "reps": 40}
         ],
-        "tag": [
+        "tags": [
             "wall ball", "double unders", "for time"
         ],
         "userAdded": false
