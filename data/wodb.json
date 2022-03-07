@@ -1,0 +1,1618 @@
+[
+    {
+      "name": "Angie",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "pull-up", "reps": 100 },
+  
+        { "move": "push-up", "reps": 100 },
+  
+        { "move": "sit-up", "reps": 100 },
+  
+        { "move": "air-squat", "reps": 100 }
+      ],
+      "tag": [
+        "pull-up", "push-up", "sit-up", "air-squat", "for time", "Angie"
+      ],
+      "userAdded": false
+      
+    },
+  
+    {
+      "name": "Barbara",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "pull-up", "reps": 20 },
+  
+        { "move": "push-up", "reps": 30 },
+  
+        { "move": "sit-up", "reps": 40 },
+  
+        { "move": "air-squat", "reps": 50 }
+      ]
+    },
+  
+    {
+      "name": "Chelsea",
+      "class": "The Girls",
+      "type": "EMOM",
+      "rounds": 30,
+      "time cap": 30,
+  
+      "workout": [
+        { "move": "pull-up", "reps": 5 },
+  
+        { "move": "push-up", "reps": 10 },
+  
+        { "move": "air-squat", "reps": 15 }
+      ]
+    },
+  
+    {
+      "name": "Cindy",
+      "class": "The Girls",
+      "type": "AMRAP",
+      "rounds": 0,
+      "time cap": 20,
+  
+      "workout": [
+        { "move": "pull-up", "reps": 5 },
+  
+        { "move": "push-up", "reps": 10 },
+  
+        { "move": "air-squat", "reps": 15 }
+      ]
+    },
+  
+    {
+      "name": "Diane",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+  
+      "workout": [
+        { "move": "deadlift", "reps": 21 },
+  
+        { "move": "hspu", "reps": 21 },
+  
+        { "move": "deadlift", "reps": 15 },
+  
+        { "move": "hspu", "reps": 15 },
+  
+        { "move": "deadlift", "reps": 9 },
+  
+        { "move": "hspu", "reps": 9 }
+      ]
+    },
+  
+    {
+      "name": "Elizabeth",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+  
+      "workout": [
+        { "move": "clean", "reps": 21 },
+  
+        { "move": "ring-dip", "reps": 21 },
+  
+        { "move": "clean", "reps": 15 },
+  
+        { "move": "ring-dip", "reps": 15 },
+  
+        { "move": "clean", "reps": 9 },
+  
+        { "move": "ring-dip", "reps": 9 }
+      ]
+    },
+  
+    {
+      "name": "Fran",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+  
+      "workout": [
+        { "move": "thruster", "reps": 21 },
+  
+        { "move": "pull-up", "reps": 21 },
+  
+        { "move": "thruster", "reps": 15 },
+  
+        { "move": "pull-up", "reps": 15 },
+  
+        { "move": "thruster", "reps": 9 },
+  
+        { "move": "pull-up", "reps": 9 }
+      ]
+    },
+  
+    {
+      "name": "Grace",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [{ "move": "clean and jerk", "reps": 30 }]
+    },
+  
+    {
+      "name": "Helen",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        {
+          "move": "run",
+          "reps": "400m"
+        },
+  
+        { "move": "KB swing", "reps": 21 },
+  
+        { "move": "pull-up", "reps": 12 }
+      ]
+    },
+  
+    {
+      "name": "Isabel",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [{ "move": "Snatch", "reps": 30 }]
+    },
+  
+    {
+      "name": "Jackie",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "row", "reps": "1000m" },
+  
+        { "move": "thruster", "reps": 50 },
+  
+        { "move": "pull-up", "reps": 30 }
+      ]
+    },
+  
+    {
+      "name": "Karen",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [{ "move": "wall-ball", "reps": 150 }]
+    },
+  
+    {
+      "name": "Mary",
+      "class": "The Girls",
+      "type": "AMRAP",
+      "rounds": 0,
+      "time cap": 20,
+  
+      "workout": [
+        { "move": "hspu", "reps": 5 },
+  
+        { "move": "pistol squat", "reps": 10 },
+  
+        { "move": "pull-up", "reps": 15 }
+      ]
+    },
+  
+    {
+      "name": "Nancy",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "overhead squat", "reps": 15 }
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Annie",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": "50-40-30-20-10",
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "DU", "reps": "descending" },
+  
+        { "move": "sit-up", "reps": "descending" }
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Eva",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "800m" },
+  
+        { "move": "KB swing", "reps": 30 }
+  
+        
+      ]
+    },
+    {
+      "name": "Kelly",
+      "class": "The Girls",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "box-jump", "reps": 30 },
+  
+        { "move": "wall-ball", "reps": 30 }
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Lynne",
+      "class": "The Girls",
+      "type": "max reps",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "bench-press", "reps": "max" },
+  
+        { "move": "pull-up", "reps": "max" }
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Nicole",
+      "class": "The Girls",
+      "type": "AMRAP",
+      "rounds": 0,
+      "time cap": 20,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "pull-up", "reps": "max" }
+  
+        
+      ]
+    },
+    {
+      "name": "Beginner 1",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "burpee", "reps": 10 },
+  
+        { "move": "squat", "reps": 20 },
+  
+        { "move": "sit-up", "reps": 30 }
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Beginner 2",
+      "class": "Beginner",
+      "type": "tabata",
+      "rounds": "8 intervals - 20s work - 10s rest",
+      "time cap": 0,
+      "rest": "10s",
+  
+      "workout": [
+        { "move": "push-up", "reps": "max" },
+  
+        { "move": "sit-up", "reps": "max" },
+  
+        { "move": "squat", "reps": "max" }
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Beginner 3",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "tuck-jump", "reps": 10 },
+  
+        { "move": "back-extension", "reps": 15 }
+  
+        
+  
+        
+      ]
+    },
+    {
+      "name": "Beginner 4",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 2,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "lunge", "reps": 50 }
+  
+        
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Beginner 5",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "push-up", "reps": 100 },
+  
+        { "move": "sit-up", "reps": 50 }
+  
+        
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Beginner 6",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "burpee", "reps": 20 },
+  
+        { "move": "squat", "reps": 30 },
+  
+        { "move": "sit-up", "reps": 40 }
+  
+        
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Beginner 7",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 4,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "tuck-jump", "reps": 15 },
+  
+        { "move": "sit-up", "reps": 30 }
+  
+  
+  
+        
+      ]
+    },
+  
+    {
+      "name": "Beginner 8",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "burpee", "reps": 100 }
+  
+      ]
+    },
+  
+    {
+      "name": "Beginner 9",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "burpee", "reps": 20 },
+  
+        { "move": "sit-up", "reps": 10 },
+  
+        { "move": "squat", "reps": 20 }
+  
+       
+          
+      ]
+    },
+  
+    {
+      "name": "Beginner 11",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "box-jump", "reps": 50 },
+  
+        { "move": "walking-lunge", "reps": 50 },
+  
+        { "move": "burpee", "reps": 20 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Beginner 12",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "jumping-squat", "reps": 20 },
+  
+        { "move": "sit-up", "reps": 20 },
+  
+        { "move": "push-up", "reps": 20 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Beginner 13",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "row", "reps": "500m" },
+  
+        { "move": "squat", "reps": 50 },
+  
+        { "move": "sit-up", "reps": 40 },
+  
+        { "move": "push-up", "reps": 30 },
+        
+        { "move": "burpee", "reps": 10 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Beginner 14",
+      "class": "Beginner",
+      "type": "AMRAP",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "plank", "reps": "60s" },
+  
+        { "move": "bicycle-crunch", "reps": 15 },
+  
+        { "move": "burpee", "reps": 10 },
+  
+        { "move": "plank", "reps": "60s" },
+        
+        { "move": "bicycle-crunch", "reps": 15 },
+  
+        { "move": "squat", "reps": 20 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Beginner 15",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "push-up", "reps": 10 },
+  
+        { "move": "squat", "reps": 20 },
+  
+        { "move": "crunch", "reps": 10 },
+  
+        { "move": "burpee", "reps": 10 },
+        
+        { "move": "jumping-jack", "reps": 25 },
+  
+        { "move": "plank", "reps": "20s" },
+  
+        { "move": "lunge", "reps": 20 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Beginner 16",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "sprint", "reps": "200m" },
+  
+        { "move": "push-up", "reps": 15 },
+  
+        { "move": "lunge", "reps": 15 },
+  
+        { "move": "sprint", "reps": "100m" },
+        
+        { "move": "squat", "reps": 15 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Beginner 17",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "push-up", "reps": "15" },
+  
+        { "move": "sit-up", "reps": 15 },
+  
+        { "move": "jump-squat", "reps": 15 }
+     
+      ]
+    },
+  
+    {
+      "name": "Beginner 18",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "plank", "reps": "60s" },
+  
+        { "move": "run", "reps": "500m" },
+  
+        { "move": "plank", "reps": "120s" },
+  
+        { "move": "run", "reps": "500m" },
+  
+        { "move": "plank", "reps": "180s" },
+  
+        { "move": "jog", "reps": "500m" }
+     
+      ]
+    },
+  
+    {
+      "name": "Beginner 19",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 4,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "walking-lunge", "reps": 20 },
+  
+        { "move": "push-up", "reps": 20 },
+  
+        { "move": "jumping-jack", "reps": 20 }
+  
+      ]
+    },
+  
+    {
+      "name": "Beginner 20",
+      "class": "Beginner",
+      "type": "AMRAP",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "squat", "reps": 20 },
+  
+        { "move": "run", "reps": "100m" },
+  
+        { "move": "walking-lunge", "reps": 20 },
+  
+        { "move": "push-up", "reps": 10 },
+  
+        { "move": "lunge", "reps": 10 },
+  
+        { "move": "run", "reps": "100m" }
+     
+      ]
+    },
+    
+    {
+      "name": "Beginner 21",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "vertical-jump", "reps": 15 },
+  
+        { "move": "jumping-jack", "reps": 15 },
+  
+        { "move": "burpee", "reps": 10 },
+  
+        { "move": "push-up", "reps": 15 }
+     
+      ]
+    },
+  
+    {
+      "name": "Beginner 22",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "skip", "reps": "60s" },
+  
+        { "move": "vertical-jump", "reps": 20 },
+  
+        { "move": "jumping-jack", "reps": 20 },
+  
+        { "move": "skip", "reps": "60s" },
+  
+        { "move": "squat", "reps": 20 },
+  
+        { "move": "walking-lunge", "reps": 20 }
+     
+      ]
+    },
+  
+    {
+      "name": "Beginner 23",
+      "class": "Beginner",
+      "type": "AMRAP",
+      "rounds": 1,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "sit-up", "reps": 20 },
+  
+        { "move": "reverse-crunch", "reps": 20 },
+  
+        { "move": "high-knee", "reps": 20 },
+  
+        { "move": "squat-jump", "reps": 20 },
+  
+        { "move": "push-up", "reps": 10 }
+     
+      ]
+    },
+  
+    {
+      "name": "Beginner 24",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 7,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "burpee", "reps": 7 },
+  
+        { "move": "squat", "reps": 7 },
+  
+        { "move": "sit-up", "reps": 7 },
+  
+        { "move": "jumping-jack", "reps": 7 }
+     
+      ]
+    },
+  
+    {
+      "name": "Beginner 25",
+      "class": "Beginner",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "plank", "reps": "90s" },
+  
+        { "move": "burpee", "reps": 20 },
+  
+        { "move": "plank", "reps": "90s" },
+  
+        { "move": "vertical-jump", "reps": 20 }
+     
+      ]
+    },
+  
+  
+  
+    {
+      "name": "JT",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": "21-15-9 reps",
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "HSPU", "reps": "descending" },
+  
+        { "move": "ring-dip", "reps": "descending" },
+  
+        { "move": "push-up", "reps": "descending" }
+          
+      ]
+    },
+  
+    {
+      "name": "Michael",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "800m" },
+  
+        { "move": "back-extension", "reps": 50 },
+  
+        { "move": "sit-up", "reps": 50 }
+          
+      ]
+    },
+  
+  
+    {
+      "name": "Murph",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "1 mile" },
+  
+        { "move": "pull-up", "reps": 100 },
+  
+        { "move": "push-up", "reps": 200 },
+  
+        { "move": "squat", "reps": 300 },
+  
+        { "move": "run", "reps": "1 mile" }
+          
+      ]
+    },
+  
+    {
+      "name": "Daniel",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "pull-up", "reps": 50 },
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "thruster", "reps": 21 },
+  
+        { "move": "run", "reps": "800m" },
+  
+        { "move": "thruster", "reps": 21 },
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "pull-up", "reps": 50 }
+          
+      ]
+    },
+  
+    {
+      "name": "Josh",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "OHS", "reps": 21 },
+  
+        { "move": "pull-up", "reps": 42 },
+  
+        { "move": "OHS", "reps": 15 },
+  
+        { "move": "pull-up", "reps": 30 },
+  
+        { "move": "OHS", "reps": 9 },
+  
+        { "move": "pull-up", "reps": 18 }
+          
+      ]
+    },
+  
+    {
+      "name": "Jason",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "squat", "reps": 100 },
+  
+        { "move": "muscle-up", "reps": 5 },
+  
+        { "move": "squat", "reps": 75 },
+  
+        { "move": "muscle-up", "reps": 10 },
+  
+        { "move": "squat", "reps": 50 },
+  
+        { "move": "muscle-up", "reps": 15 },
+  
+        { "move": "squat", "reps": 15 },
+  
+        { "move": "muscle-up", "reps": 20 }
+          
+      ]
+    },
+  
+    {
+      "name": "Badger",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "squat-clean", "reps": 30 },
+  
+        { "move": "pull-up", "reps": 30 },
+  
+        { "move": "run", "reps": "800m" }
+  
+          
+      ]
+    },
+  
+  
+    {
+      "name": "Joshie",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "DB-snatch", "reps": 42 },
+  
+        { "move": "L pull-up", "reps": 21 },
+  
+        { "move": "run", "reps": "800m" }
+  
+          
+      ]
+    },
+  
+  
+    {
+      "name": "Nate",
+      "class": "Benchmark",
+      "type": "AMRAP",
+      "rounds": 0,
+      "time cap": 20,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "muscle-up", "reps": 2 },
+  
+        { "move": "HSPU", "reps": 4 },
+  
+        { "move": "KB-swing", "reps": 8 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Tommy V",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "thruster", "reps": 21 },
+  
+        { "move": "rope-climb", "reps": 12 },
+  
+        { "move": "thruster", "reps": 15 },
+  
+        { "move": "rope-climb", "reps": 12 },
+  
+        { "move": "thruster", "reps": 9 },
+  
+        { "move": "rope-climb", "reps": 6 }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Griff",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "800m" },
+  
+        { "move": "run", "reps": "400m backwards" },
+  
+        { "move": "run", "reps": "800m" },
+  
+        { "move": "run", "reps": "400m backwards" }
+  
+          
+      ]
+    },
+  
+    {
+      "name": "Ryan",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "muscle-up", "reps": 7},
+  
+        { "move": "burpee", "reps": 21 }
+          
+      ]
+    },
+  
+    {
+      "name": "Erin",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "DB split-clean", "reps": 15},
+  
+        { "move": "pull-up", "reps": 21 }
+          
+      ]
+    },
+  
+    {
+      "name": "Mr Joshua",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "400m"},
+  
+        { "move": "glute-ham sit-up", "reps": 30 },
+  
+        { "move": "deadlift", "reps": 15 }
+          
+      ]
+    },
+  
+    {
+      "name": "DT",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "deadlift", "reps": 12},
+  
+        { "move": "power clean", "reps": 9 },
+  
+        { "move": "push jerk", "reps": 6 }
+          
+      ]
+    },
+  
+    {
+      "name": "Danny",
+      "class": "Benchmark",
+      "type": "max rounds",
+      "rounds": "max",
+      "time cap": 20,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "box-jump", "reps": 30},
+  
+        { "move": "push press", "reps": 20 },
+  
+        { "move": "pull-up", "reps": 30 }
+          
+      ]
+    },
+  
+    {
+      "name": "Hansen",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "KB swing", "reps": 30},
+  
+        { "move": "burpees", "reps": 30 },
+  
+        { "move": "sit-up", "reps": 30 }
+          
+      ]
+    },
+  
+    {
+      "name": "Tyler",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 20,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "muscle-up", "reps": 7},
+  
+        { "move": "sumo deadlift high", "reps": 21 }
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "Lumberjack 20",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "deadlifts", "reps": 20},
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "KB swing", "reps": 20},
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "OHS", "reps": 20},
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "burpee", "reps": 20},
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "pull-up", "reps": 20},
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "box jump", "reps": 20},
+  
+        { "move": "run", "reps": "400m" },
+  
+        { "move": "DB squat clean", "reps": 20},
+  
+        { "move": "run", "reps": "400m" }
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "Stephen",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": "30-25-15-10-5 reps",
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "GHD sit-up", "reps": "descending"},
+  
+        { "move": "back extension", "reps": "descending" },
+  
+        { "move": "knees to elbow", "reps": "descending"},
+  
+        { "move": "deadlift", "reps": "descending"}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "Garret",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "squat", "reps": 75},
+  
+        { "move": "ring handstand push-up", "reps": 25 },
+  
+        { "move": "L pull-up", "reps": 25}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "War Frank",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 3,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "muscle-up", "reps": 25},
+  
+        { "move": "squat", "reps": 100 },
+  
+        { "move": "GHD sit-up", "reps": 35}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "McGhee",
+      "class": "Benchmark",
+      "type": "max rounds",
+      "rounds": 3,
+      "time cap": 30,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "deadlift", "reps": 5},
+  
+        { "move": "push-up", "reps": 13 },
+  
+        { "move": "box-jump", "reps": 9}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "Paul",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "double unders", "reps": 50},
+  
+        { "move": "knees to elbows", "reps": 35 },
+  
+        { "move": "overhead walk", "reps": "20 m"}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "Jerry",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "run", "reps": "1 mile"},
+  
+        { "move": "row", "reps": "2k" },
+  
+        { "move": "run", "reps": "1 mile"}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "Nutts",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "HSPU", "reps": 10},
+  
+        { "move": "deadlift", "reps": 15 },
+  
+        { "move": "box jump", "reps": 24},
+  
+        { "move": "pull-up", "reps": 50 },
+  
+        { "move": "wall-ball", "reps": 100},
+  
+        { "move": "double-under", "reps": 200 },
+  
+        { "move": "run with a plate", "reps": "400m"}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "The Seven",
+      "class": "Benchmark",
+      "type": "for time",
+      "rounds": 7,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "HSPU", "reps": 7},
+  
+        { "move": "thruster", "reps": 7},
+  
+        { "move": "knees to elbows", "reps": 7},
+  
+        { "move": "deadlift", "reps": 7},
+  
+        { "move": "burpee", "reps": 7},
+  
+        { "move": "KB swing", "reps": 7 },
+  
+        { "move": "pull-up", "reps": 7}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "No Equip 6",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "squat", "reps": 50},
+  
+        { "move": "push-up", "reps": 25 },
+  
+        { "move": "pistol squat", "reps": 50},
+  
+        { "move": "fingertip push-up", "reps": 25},
+  
+        { "move": "side lunges", "reps": 50 },
+  
+        { "move": "knuckle push-up", "reps": 25},
+  
+        { "move": "walking lunges", "reps": 50 },
+  
+        { "move": "diamond push-up", "reps": 25} 
+      ]
+    },
+  
+    {
+      "name": "No Equip 7",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "flutterkick", "reps": 50},
+  
+        { "move": "situp", "reps": 50 },
+  
+        { "move": "run", "reps": "400m"},
+  
+        { "move": "flutterkick", "reps": 100},
+  
+        { "move": "sit-up", "reps": 100 },
+  
+        { "move": "run", "reps": "400m"}
+  
+         
+      ]
+    },
+  
+    {
+      "name": "No Equip 9",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 4,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+  
+        { "move": "push-up", "reps": 50 },
+  
+        { "move": "sit-up", "reps": 50},
+  
+        { "move": "fluterkicks", "reps": 50}
+  
+        
+          
+      ]
+    },
+  
+    {
+      "name": "No Equip 11",
+      "class": "Bodyweight",
+      "type": "AMRAP",
+      "rounds": 0,
+      "time cap": 12,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "push-up", "reps": 10},
+  
+        { "move": "sit-up", "reps": 15 },
+  
+        { "move": "walking lunge", "reps": "20m"}
+        
+          
+      ]
+    },
+  
+    {
+      "name": "No Equip 13",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "mountain climber", "reps": 50},
+  
+        { "move": "sit-up", "reps": 50 }
+        
+          
+      ]
+    },
+  
+    {
+      "name": "No Equip 14",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 5,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "jumping jack", "reps": 100},
+  
+        { "move": "mountain climber", "reps": 100 }
+        
+          
+      ]
+    },
+  
+    {
+      "name": "No Equip 16",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 50,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "squat", "reps": 1},
+  
+        { "move": "push-up", "reps": 1},
+  
+        { "move": "sit-up", "reps": 1},
+  
+        { "move": "superman", "reps": 1},
+  
+        { "move": "tuck jump", "reps": 1}
+  
+       
+        
+          
+      ]
+    },
+  
+  
+    {
+      "name": "No Equip 17",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "jumping jack", "reps": 50},
+  
+        { "move": "push-up", "reps": 50},
+  
+        { "move": "tuck jump", "reps": 50},
+  
+        { "move": "sit-up", "reps": 50},
+  
+        { "move": "mountain climber", "reps": 50},
+  
+        { "move": "squat", "reps": 50},
+  
+        { "move": "jumping jack", "reps": 50}
+  
+       
+        
+          
+      ]
+    },
+  
+    {
+      "name": "No Equip 20",
+      "class": "Bodyweight",
+      "type": "for time",
+      "rounds": 0,
+      "time cap": 0,
+      "rest": 0,
+  
+      "workout": [
+        { "move": "burpee", "reps": 5},
+  
+        { "move": "chest-slap push-up", "reps": 10},
+  
+        { "move": "burpee", "reps": 5},
+  
+        { "move": "fingertip push-up", "reps": 5}
+  
+  
+          
+      ]
+    }
+  
+    
+  
+    
+  ]
+  

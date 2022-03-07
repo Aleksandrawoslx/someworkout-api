@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Thrusters metcon",
+        "type": "for time",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+        "rounds": 0,
+        "workout":
+        [
+            {"move": "thruster", "reps": 50},
+            {"move": "T2B", "reps": 25},
+            {"move": "American Swings", "reps": 50}
+        ],
+        "tag": [
+            "thruster", "T2B", "American Swings", "for time"
+        ],
+        "userAdded": false
+        
+    },
+   
+    {
+        "name": "Row metcon",
+        "type": "for time",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+        "rounds": 0,
+        "workout": 
+        [
+            {"move": "airbike", "reps": "22/16 cal" },
+            {"move": "row", "reps": "20/15 cal"},
+            {"move": "burpee over the row", "reps": 16}
+        ],
+        "tag": [
+            "airbike", "row", "burpee over the row", "for time"
+        ],
+        "userAdded": false
+    },
+    {
+        "name": "Power clean metcon",
+        "type": "for time",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+        "rounds": 0,
+        "workout": 
+        [
+            {"move": "power clean", "reps": 15},
+            {"move": "burpee box jump over", "reps": 15},
+            {"move": "power clean", "reps": 12},
+            {"move": "burpee box jump over", "reps": 12},
+            {"move": "power clean", "reps": 9},
+            {"move": "burpee box jump over", "reps": 9}
+        ],
+        "tag": [
+            "power clean", "burpee box jump over", "for time"
+        ],
+        "userAdded": false
+    },
+    {
+        "name": "Wall ball metcon",
+        "type": "for time", 
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+        "rounds": 0,
+        "workout": 
+        [
+            {"move": "wall ball", "reps": 50},
+            {"move": "alternating dumbell snatch", "reps": 40},
+            {"move": "hang power clean", "reps": 30},
+            {"move": "shoulder to overhead", "reps": "20 m"},
+            {"move": "push-up", "reps": 20}
+        ],
+        "tag": [
+            "power clean", "burpee box jump over", "for time"
+        ],
+        "userAdded": false
+    },
+    {
+        "name": "Sit up box metcon",
+        "type": "for time",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+        "rounds": 0,
+        "workout": 
+        [
+            {"move": "box jump over", "reps": 30},
+            {"move": "sit up", "reps": 30},
+            {"move":"box jump over", "reps": 20},
+            {"move":"sit up", "reps": 20},
+            {"move":"box jump over", "reps": 10},
+            {"move":"sit up", "reps": 10}
+        ],
+        "tag": [
+            "box jump over", "sit up", "for time"
+        ],
+        "userAdded": false
+    },
+    {
+        "name": "Squat snatch metcon",
+        "type": "for time",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+        "rounds": 4,
+        "workout": 
+        [
+            {"move": "double unders", "reps": 60},
+            {"move": "dumbell snatch", "reps": 25},
+            {"move": "front squat", "reps": 15}
+        ],
+        "tag": [
+            "double unders", "dumbell snatch", "front squat", "for time"
+        ],
+        "userAdded": false
+    },
+    {
+        "name": "wall ball metcon", 
+        "type": "for time",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+        "rounds": 0,
+        "workout":
+        [
+            {"move": "wall ball", "reps": 40},
+            {"move": "double unders", "reps": 40},
+            {"move": "wall ball", "reps": 40},
+            {"move": "double unders", "reps": 40},
+            {"move": "wall ball", "reps": 40},
+            {"move": "double unders", "reps": 40}
+        ],
+        "tag": [
+            "wall ball", "double unders", "for time"
+        ],
+        "userAdded": false
+    }
+]
