@@ -6,6 +6,7 @@ const {isAuthenticated} = require("../middleware/jwt.middleware");
 
 router.get("/", (req, res, next)=>{
   Client.find()
+  .populate("assignedWod")
   .then(allClients => res.json(allClients))
   .catch(err=> res.json(err));
 })
@@ -32,7 +33,7 @@ router.post("/",  (req,res, next)=>{
 })
 
 router.get("/:clientId", isAuthenticated, (req,res,next)=>{
-  const {cientId} = req.params; 
+  const {clientId} = req.params; 
 
   Client.findById(clientId)
   .then(client => res.json(client))

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ola",
+    "surname": "Wos",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+    "assignedWods": "622648d26e04c80057694751"
+  },
+  {
+    "name": "Lala",
+    "surname": "Los",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+    "assignedWods": "622648d26e04c80057694751"
+  },
+  {
+    "name": "Lukasz",
+    "surname": "Kowalski",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+    "assignedWods": "622648d26e04c80057694752"
+  },
+  {
+    "name": "Ela",
+    "surname": "Leo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
+    "assignedWods": "622648d26e04c80057694753"
+  }
+
+]
