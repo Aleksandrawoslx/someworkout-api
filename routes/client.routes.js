@@ -2,30 +2,25 @@ const router = require("express").Router();
 const Client = require("../models/Client.model");
 const mongoose = require("mongoose")
 const {isAuthenticated} = require("../middleware/jwt.middleware");
-const req = require("express/lib/request");
-const { route } = require("./auth.routes");
 
 
-router.get("/", isAuthenticated, (req, res, next)=>{
-  Wod.find()
-  .then(allWods => res.json(allWods))
+router.get("/", (req, res, next)=>{
+  Client.find()
+  .then(allClients => res.json(allClients))
   .catch(err=> res.json(err));
 })
 
-router.post("/", isAuthenticated, (req,res, next)=>{
+router.post("/",  (req,res, next)=>{
 
-  const wodDetails = {
+  const clientDetails = {
     name: req.body.name,
-    type: req.body.type,
-    description: req.body.description,
-    rounds: req.body.rounds,
-    workout: req.body.workouts,
-    tags: req.body.tags
+    surname: req.body.surname,
+    description: req.body.description, 
   }
 
-  Wod.create(wodDetails)
-  .then(wodMade =>{
-    res.status(201).json(wodMade)
+  Client.create(clientDetails)
+  .then(clientCreated =>{
+    res.status(201).json(clientCreated)
   })
   .catch(err=>{
     console.log("workout error try again", err);
@@ -36,11 +31,11 @@ router.post("/", isAuthenticated, (req,res, next)=>{
   })
 })
 
-router.get("/:wodId", isAuthenticated, (req,res,next)=>{
-  const {wodId} = req.params; 
+router.get("/:clientId", isAuthenticated, (req,res,next)=>{
+  const {cientId} = req.params; 
 
-  Wod.findById(wodId)
-  .then(wod => res.json(wod))
+  Client.findById(clientId)
+  .then(client => res.json(client))
   .catch(err => res.status(500).json(err))
 })
 
