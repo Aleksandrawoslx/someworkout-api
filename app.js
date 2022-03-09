@@ -28,6 +28,9 @@ app.use("/api/wods", wodRouter); // <== UPDATE
 const clientRouter = require("./routes/client.routes");
 app.use("/api/clients", clientRouter); // <== UPDATE
 
+const userRouter = require("./routes/user.routes");
+app.use("/api/users", userRouter); // <== UPDATE
+
 const authRouter = require("./routes/auth.routes"); //  <== IMPORT
 app.use("/auth", authRouter);
 

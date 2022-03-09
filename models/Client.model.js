@@ -6,7 +6,12 @@ const clientSchema = new Schema({
   birth: {type: Number},
   weight: {type: Number},
   description: { type: String, required: true },
-  clientMeets: [{type:Schema.Types.ObjectId, ref: "Meet"}]
+  clientMeets: [{type:Schema.Types.ObjectId, ref: "Meet"}],
+  user: {
+    type: Schema.Types.ObjectId,
+    ref: "User",
+    required: true,
+  },
 
 },
 {

@@ -32,13 +32,20 @@ router.post("/",  (req,res, next)=>{
   })
 })
 
-router.get("/:clientId", isAuthenticated, (req,res,next)=>{
-  const {clientId} = req.params; 
+router.get('/:clientId', (req, res, next) => {
+  const { clientId } = req.params;
+
+  if (!mongoose.Types.ObjectId.isValid(projectId)) {
+    res.status(400).json({ message: 'Specified id is not valid' });
+    return;
+  }
 
   Client.findById(clientId)
-  .then(client => res.json(client))
-  .catch(err => res.status(500).json(err))
-})
+    .populate('clientMeets')
+    .then(project => res.json(project))
+    .catch(err => res.status(500).json(err));
+});
+
 
 module.exports = router;
 
