@@ -3,7 +3,7 @@
         "name": "Thrusters metcon",
         "type": "for time",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
-        "rounds": 0,
+        "rounds": 1,
         "workout":
         [
             {"move": "thruster", "reps": 50},
@@ -21,7 +21,7 @@
         "name": "Row metcon",
         "type": "for time",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
-        "rounds": 0,
+        "rounds": 1,
         "workout": 
         [
             {"move": "airbike", "reps": "22/16 cal" },
@@ -37,7 +37,7 @@
         "name": "Power clean metcon",
         "type": "for time",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
-        "rounds": 0,
+        "rounds": 1,
         "workout": 
         [
             {"move": "power clean", "reps": 15},
@@ -56,7 +56,7 @@
         "name": "Wall ball metcon",
         "type": "for time", 
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
-        "rounds": 0,
+        "rounds": 1,
         "workout": 
         [
             {"move": "wall ball", "reps": 50},
@@ -74,7 +74,7 @@
         "name": "Sit up box metcon",
         "type": "for time",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
-        "rounds": 0,
+        "rounds": 1,
         "workout": 
         [
             {"move": "box jump over", "reps": 30},
@@ -109,7 +109,7 @@
         "name": "wall ball metcon", 
         "type": "for time",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi eget mauris pharetra et ultrices neque ornare aenean. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna.",
-        "rounds": 0,
+        "rounds": 1,
         "workout":
         [
             {"move": "wall ball", "reps": 40},

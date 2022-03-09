@@ -16,7 +16,7 @@
   
         { "move": "air-squat", "reps": 100 }
       ],
-      "tag": [
+      "tags": [
         "pull-up", "push-up", "sit-up", "air-squat", "for time", "Angie"
       ],
       "userAdded": false
@@ -39,7 +39,11 @@
         { "move": "sit-up", "reps": 40 },
   
         { "move": "air-squat", "reps": 50 }
-      ]
+      ],
+      "tags": [
+        "pull-up", "push-up", "sit-up", "air-squat"
+      ],
+      "userAdded": false
     },
   
     {
@@ -55,14 +59,17 @@
         { "move": "push-up", "reps": 10 },
   
         { "move": "air-squat", "reps": 15 }
-      ]
+      ],
+      "tags": 
+      ["pull-up", "push-up", "air-squat"],
+      "userAdded": false
     },
   
     {
       "name": "Cindy",
       "class": "The Girls",
       "type": "AMRAP",
-      "rounds": 0,
+      "rounds": 1,
       "time cap": 20,
   
       "workout": [
@@ -71,7 +78,9 @@
         { "move": "push-up", "reps": 10 },
   
         { "move": "air-squat", "reps": 15 }
-      ]
+      ],
+      "tags":["pull-up", "push-up", "air-squat"],
+      "userAdded": false
     },
   
     {
@@ -93,7 +102,8 @@
         { "move": "deadlift", "reps": 9 },
   
         { "move": "hspu", "reps": 9 }
-      ]
+      ],
+      "tags": ["deadlift", "hspu", "for time"]
     },
   
     {
@@ -214,7 +224,7 @@
       "name": "Mary",
       "class": "The Girls",
       "type": "AMRAP",
-      "rounds": 0,
+      "rounds": 1,
       "time cap": 20,
   
       "workout": [

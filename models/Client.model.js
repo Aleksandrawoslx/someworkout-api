@@ -4,7 +4,8 @@ const clientSchema = new Schema({
   name: { type: String, required: true },
   surname: {type: String},
   description: { type: String, required: true },
-  assignedWods: [{type: Schema.Types.ObjectId, ref: "Wod"}]
+  assignedWods: [{type: Schema.Types.ObjectId, ref: "Wod"}],
+  clientMeets: [{type:Schema.Types.ObjectId, ref: "Meet"}]
 
 },
 {
