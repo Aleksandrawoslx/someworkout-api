@@ -32,30 +32,30 @@ router.put('/:userId', (req, res, next) => {
       .catch(error => res.status(500).json(error));
   });
 
-router.post("/", (req, res) => {
+// router.post("/", (req, res) => {
 
-  const { userId } = req.body.user;
+//   const { userId } = req.body.user;
 
-  const clientDetails = {
-    title: req.body.title,
-    description: req.body.description,
-    user: userId,
-  };
+//   const clientDetails = {
+//     title: req.body.title,
+//     description: req.body.description,
+//     user: userId,
+//   };
 
-  Client.create(clientDetails)
-    .then((newClient) => {
-      return User.findByIdAndUpdate(userId, {
-        $push: { userClients: newClient._id },
-      });
-    })
-    .then((response) => res.json(response))
-    .catch((err) => {
-      console.log("error creating a new task", err);
-      res.status(500).json({
-        message: "error creating a new task",
-        error: err,
-      });
-    });
-});
+//   Client.create(clientDetails)
+//     .then((newClient) => {
+//       return User.findByIdAndUpdate(userId, {
+//         $push: { userClients: newClient._id },
+//       });
+//     })
+//     .then((response) => res.json(response))
+//     .catch((err) => {
+//       console.log("error creating a new task", err);
+//       res.status(500).json({
+//         message: "error creating a new task",
+//         error: err,
+//       });
+//     });
+// });
 
 module.exports = router;
