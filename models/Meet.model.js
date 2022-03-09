@@ -1,7 +1,7 @@
 const { Schema, model } = require("mongoose");
 
 const meetSchema = new Schema({
-  description: { type: String },
+  comment: { type: String },
   assignedWods: {type: Schema.Types.ObjectId, ref: "Wod"}
 
 },
