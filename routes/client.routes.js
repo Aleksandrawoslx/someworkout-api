@@ -16,6 +16,7 @@ router.post("/",  (req,res, next)=>{
   const clientDetails = {
     name: req.body.name,
     surname: req.body.surname,
+    birth: req.body.birth,
     description: req.body.description, 
   }
 
@@ -35,14 +36,14 @@ router.post("/",  (req,res, next)=>{
 router.get('/:clientId', (req, res, next) => {
   const { clientId } = req.params;
 
-  if (!mongoose.Types.ObjectId.isValid(projectId)) {
+  if (!mongoose.Types.ObjectId.isValid(clientId)) {
     res.status(400).json({ message: 'Specified id is not valid' });
     return;
   }
 
   Client.findById(clientId)
     .populate('clientMeets')
-    .then(project => res.json(project))
+    .then(client => res.json(client))
     .catch(err => res.status(500).json(err));
 });
 

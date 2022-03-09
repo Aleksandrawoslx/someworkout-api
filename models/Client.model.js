@@ -3,15 +3,9 @@ const { Schema, model } = require("mongoose");
 const clientSchema = new Schema({
   name: { type: String, required: true },
   surname: {type: String},
-  birth: {type: Number},
-  weight: {type: Number},
+  birth: {type: String},
   description: { type: String, required: true },
   clientMeets: [{type:Schema.Types.ObjectId, ref: "Meet"}],
-  user: {
-    type: Schema.Types.ObjectId,
-    ref: "User",
-    required: true,
-  },
 
 },
 {

@@ -11,10 +11,14 @@ router.get("/", (req, res, next) => {
     .catch((err) => res.json(err));
 });
 
+router.get("/:userId", (req, res, next) => {
+
+})
+
 router.put('/:userId', (req, res, next) => {
     const { userId } = req.params;
   
-    if (!mongoose.Types.ObjectId.isValid(projectId)) {
+    if (!mongoose.Types.ObjectId.isValid(userId)) {
       res.status(400).json({ message: 'Specified id is not valid' });
       return;
     }
@@ -30,6 +34,20 @@ router.put('/:userId', (req, res, next) => {
     User.findByIdAndUpdate(userId, userDetails, { new: true })
       .then((updatedUser) => res.json(updatedUser))
       .catch(error => res.status(500).json(error));
+  });
+
+  router.get('/:userId', (req, res, next) => {
+    const { userId } = req.params;
+  
+    if (!mongoose.Types.ObjectId.isValid(userId)) {
+      res.status(400).json({ message: 'Specified id is not valid' });
+      return;
+    }
+  
+    User.findById(userId)
+      .populate('userClients')
+      .then(user => res.json(user))
+      .catch(err => res.status(500).json(err));
   });
 
 // router.post("/", (req, res) => {
