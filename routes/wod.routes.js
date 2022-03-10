@@ -6,7 +6,7 @@ const req = require("express/lib/request");
 const { route } = require("./auth.routes");
 
 
-router.get("/", isAuthenticated, (req, res, next)=>{
+router.get("/", (req, res, next)=>{
   Wod.find()
   .then(allWods => res.json(allWods))
   .catch(err=> res.json(err));
@@ -20,7 +20,8 @@ router.post("/", (req,res, next)=>{
     description: req.body.description,
     rounds: req.body.rounds,
     workout: req.body.workout,
-    tags: req.body.tags
+    tags: req.body.tags,
+    userAdded: req.body.userAdded
   }
 
   Wod.create(wodDetails)
