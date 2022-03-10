@@ -4,7 +4,7 @@ const { Schema, model } = require("mongoose");
 const wodSchema = new Schema(
     {
   name: { type: String, required: true },
-  type: { type: String, required: true },
+  type: { type: String },
   description: { type: String, required: true },
   class: { type: String },
   tags: {type: Array}, 

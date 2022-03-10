@@ -12,14 +12,14 @@ router.get("/", isAuthenticated, (req, res, next)=>{
   .catch(err=> res.json(err));
 })
 
-router.post("/", isAuthenticated, (req,res, next)=>{
+router.post("/", (req,res, next)=>{
 
   const wodDetails = {
     name: req.body.name,
     type: req.body.type,
     description: req.body.description,
     rounds: req.body.rounds,
-    workout: req.body.workouts,
+    workout: req.body.workout,
     tags: req.body.tags
   }
 
