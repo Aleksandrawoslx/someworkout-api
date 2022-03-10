@@ -11,9 +11,6 @@ router.get("/", (req, res, next) => {
     .catch((err) => res.json(err));
 });
 
-router.get("/:userId", (req, res, next) => {
-
-})
 
 router.put('/:userId', (req, res, next) => {
     const { userId } = req.params;
@@ -28,7 +25,7 @@ router.put('/:userId', (req, res, next) => {
         password: req.body.password,
         name: req.body.name,
         userClients: req.body.userClients,
-        userWods: req.body.userWods
+        // userWods: req.body.userWods
     }
   
     User.findByIdAndUpdate(userId, userDetails, { new: true })
