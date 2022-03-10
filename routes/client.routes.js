@@ -47,6 +47,15 @@ router.get('/:clientId', (req, res, next) => {
     .catch(err => res.status(500).json(err));
 });
 
+router.delete('/:clientId', (req, res, next) => {
+  const { clientId } = req.params;
+
+ 
+  Client.findByIdAndRemove(clientId)
+    .then(() => res.json({ message: `Client with ${clientId} is removed successfully.` }))
+    .catch(error => res.status(500).json(error));
+});
+
 
 module.exports = router;
 
