@@ -9,7 +9,8 @@ const wodSchema = new Schema(
   class: { type: String },
   tags: {type: Array}, 
   workout: {type: Array},
-  userAdded: {type: Boolean}
+  userAdded: {type: Boolean},
+  owner: {type:Schema.Types.ObjectId, ref: "Client"}
 },
 {
     timestamps: true

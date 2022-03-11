@@ -21,7 +21,8 @@ router.post("/", (req,res, next)=>{
     rounds: req.body.rounds,
     workout: req.body.workout,
     tags: req.body.tags,
-    userAdded: req.body.userAdded
+    userAdded: req.body.userAdded,
+    owner: req.body.owner
   }
 
   Wod.create(wodDetails)
