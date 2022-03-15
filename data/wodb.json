@@ -41,7 +41,7 @@
         { "move": "air-squat", "reps": 50 }
       ],
       "tags": [
-        "pull-up", "push-up", "sit-up", "air-squat"
+        "pull-up", "push-up", "sit-up", "air-squat", "The Girls", "Barbara"
       ],
       "userAdded": false
     },
@@ -61,7 +61,7 @@
         { "move": "air-squat", "reps": 15 }
       ],
       "tags": 
-      ["pull-up", "push-up", "air-squat"],
+      ["pull-up", "push-up", "air-squat", "Chelsea", "The Girls"],
       "userAdded": false
     },
   
@@ -79,7 +79,7 @@
   
         { "move": "air-squat", "reps": 15 }
       ],
-      "tags":["pull-up", "push-up", "air-squat"],
+      "tags":["pull-up", "push-up", "air-squat", "The Girls", "Cindy"],
       "userAdded": false
     },
   
@@ -103,8 +103,10 @@
   
         { "move": "hspu", "reps": 9 }
       ],
-      "tags": ["deadlift", "hspu", "for time"]
+      "tags": ["deadlift", "hspu", "for time", "The Girls", "Diane"],
+      "userAdded": false
     },
+  
   
     {
       "name": "Elizabeth",
@@ -125,7 +127,10 @@
         { "move": "clean", "reps": 9 },
   
         { "move": "ring-dip", "reps": 9 }
-      ]
+      ], 
+      "tags": 
+      ["clean", "ring-dip", "for time", "The Girls", "Elisabeth"],
+      "userAdded": false
     },
   
     {
@@ -147,7 +152,10 @@
         { "move": "thruster", "reps": 9 },
   
         { "move": "pull-up", "reps": 9 }
-      ]
+      ],
+      "tags": 
+      ["thruster", "pull-up", "for time", "The Girls", "Fran"],
+      "userAdded": false
     },
   
     {
@@ -158,7 +166,9 @@
       "time cap": 0,
       "rest": 0,
   
-      "workout": [{ "move": "clean and jerk", "reps": 30 }]
+      "workout": [{ "move": "clean and jerk", "reps": 30 }],
+      "tags": ["clean", "jerk", "for time", "The Girls", "Grace"],
+      "userAdded": false
     },
   
     {
@@ -178,7 +188,9 @@
         { "move": "KB swing", "reps": 21 },
   
         { "move": "pull-up", "reps": 12 }
-      ]
+      ],
+      "tags": ["KB", "swing", "pull-up", "for time", "The Girls", "Helen"],
+      "userAdded": false
     },
   
     {
@@ -189,7 +201,9 @@
       "time cap": 0,
       "rest": 0,
   
-      "workout": [{ "move": "Snatch", "reps": 30 }]
+      "workout": [{ "move": "snatch", "reps": 30 }],
+      "tags": ["snatch", "for time", "The Girls", "Isabel"],
+      "userAdded": false
     },
   
     {
@@ -206,7 +220,9 @@
         { "move": "thruster", "reps": 50 },
   
         { "move": "pull-up", "reps": 30 }
-      ]
+      ],
+      "tags": ["row", "thruster", "pull-up", "The Girls", "Jackie"],
+      "userAdded": false
     },
   
     {
@@ -216,8 +232,9 @@
       "rounds": 1,
       "time cap": 0,
       "rest": 0,
-  
-      "workout": [{ "move": "wall-ball", "reps": 150 }]
+      "workout": [{ "move": "wall-ball", "reps": 150 }],
+      "tags": ["wall", "ball", "for time", "The Girls", "Karen"],
+      "userAdded": false
     },
   
     {
@@ -225,15 +242,16 @@
       "class": "The Girls",
       "type": "AMRAP",
       "rounds": 1,
-      "time cap": 20,
-  
+      "time cap": 20,  
       "workout": [
         { "move": "hspu", "reps": 5 },
   
         { "move": "pistol squat", "reps": 10 },
   
         { "move": "pull-up", "reps": 15 }
-      ]
+      ],
+      "tags": ["pistol", "squat", "pull-up", "AMRAP", "The Girls", "Mary"],
+      "userAdded": false
     },
   
     {
@@ -248,9 +266,9 @@
         { "move": "run", "reps": "400m" },
   
         { "move": "overhead squat", "reps": 15 }
-  
-        
-      ]
+      ],
+      "tags": ["run", "overhead", "squat", "for time", "The Girls", "Nancy"],
+      "userAdded": false
     },
   
     {
@@ -264,10 +282,10 @@
       "workout": [
         { "move": "DU", "reps": "descending" },
   
-        { "move": "sit-up", "reps": "descending" }
-  
-        
-      ]
+        { "move": "sit-up", "reps": "descending" }   
+      ],
+      "tags": ["DU", "sit-up", "for time", "The Girls", "for time", "Annie"], 
+      "userAdded": false
     },
   
     {
@@ -277,14 +295,12 @@
       "rounds": 5,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
-        { "move": "run", "reps": "800m" },
-  
-        { "move": "KB swing", "reps": 30 }
-  
-        
-      ]
+        { "move": "run", "reps": "800m" },  
+        { "move": "KB swing", "reps": 30 }  
+      ],
+      "tags": ["run", "KB", "swing", "for time", "Eva", "The Girls"],
+      "userAdded": false
     },
     {
       "name": "Kelly",
@@ -299,10 +315,10 @@
   
         { "move": "box-jump", "reps": 30 },
   
-        { "move": "wall-ball", "reps": 30 }
-  
-        
-      ]
+        { "move": "wall-ball", "reps": 30 }       
+      ],
+      "tags": ["run", "box-jump", "wall-ball", "for time", "The Girls", "Kelly"], 
+      "userAdded": false
     },
   
     {
@@ -312,14 +328,13 @@
       "rounds": 5,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "bench-press", "reps": "max" },
   
-        { "move": "pull-up", "reps": "max" }
-  
-        
-      ]
+        { "move": "pull-up", "reps": "max" }        
+      ],
+      "tags": ["bench", "press", "pull-up", "max reps", "The Girls", "Lynne"],
+      "userAdded": false
     },
   
     {
@@ -332,52 +347,47 @@
   
       "workout": [
         { "move": "run", "reps": "400m" },
-  
-        { "move": "pull-up", "reps": "max" }
-  
-        
-      ]
+        { "move": "pull-up", "reps": "max" }       
+      ],
+      "tags": ["run", "pull-up", "AMRAP", "The Girls", "Nicole"],
+      "userAdded": false
     },
     {
-      "name": "Beginner 1",
+      "name": "Starter burpee",
       "class": "Beginner",
       "type": "for time",
       "rounds": 3,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "burpee", "reps": 10 },
   
         { "move": "squat", "reps": 20 },
   
-        { "move": "sit-up", "reps": 30 }
-  
-        
-      ]
+        { "move": "sit-up", "reps": 30 }      
+      ],
+      "tags": ["burpee", "squat", "sit-up", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 2",
+      "name": "Starter push-up",
       "class": "Beginner",
       "type": "tabata",
       "rounds": "8 intervals - 20s work - 10s rest",
       "time cap": 0,
       "rest": "10s",
-  
       "workout": [
         { "move": "push-up", "reps": "max" },
-  
         { "move": "sit-up", "reps": "max" },
-  
-        { "move": "squat", "reps": "max" }
-  
-        
-      ]
+        { "move": "squat", "reps": "max" }    
+      ],
+      "tags": ["push-up", "sit-up", "squat", "tabata", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 3",
+      "name": "Jump back-extension",
       "class": "Beginner",
       "type": "for time",
       "rounds": 5,
@@ -386,54 +396,44 @@
   
       "workout": [
         { "move": "tuck-jump", "reps": 10 },
-  
-        { "move": "back-extension", "reps": 15 }
-  
-        
-  
-        
-      ]
+        { "move": "back-extension", "reps": 15 }  
+      ],
+      "tags": ["tuck", "jump", "back-extension", "for time", "Beginner"],
+      "userAdded": false
     },
     {
-      "name": "Beginner 4",
+      "name": "Run and lunge",
       "class": "Beginner",
       "type": "for time",
       "rounds": 2,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "run", "reps": "400m" },
-  
-        { "move": "lunge", "reps": 50 }
-  
-        
-  
-        
-      ]
+        { "move": "lunge", "reps": 50 }      
+      ],
+      "tags": ["run", "lunge", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 5",
+      "name": "Push-up sit-up",
       "class": "Beginner",
       "type": "for time",
       "rounds": 0,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "push-up", "reps": 100 },
   
-        { "move": "sit-up", "reps": 50 }
-  
-        
-  
-        
-      ]
+        { "move": "sit-up", "reps": 50 }      
+      ],
+      "tags": ["push-up", "sit-up", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 6",
+      "name": "Burpee squat",
       "class": "Beginner",
       "type": "for time",
       "rounds": 3,
@@ -445,16 +445,14 @@
   
         { "move": "squat", "reps": 30 },
   
-        { "move": "sit-up", "reps": 40 }
-  
-        
-  
-        
-      ]
+        { "move": "sit-up", "reps": 40 }   
+      ],
+      "tags": ["burpee", "squat", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 7",
+      "name": "Jump sit-up",
       "class": "Beginner",
       "type": "for time",
       "rounds": 4,
@@ -464,16 +462,14 @@
       "workout": [
         { "move": "tuck-jump", "reps": 15 },
   
-        { "move": "sit-up", "reps": 30 }
-  
-  
-  
-        
-      ]
+        { "move": "sit-up", "reps": 30 }     
+      ],
+      "tags": ["tuck-jump", "sit-up", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 8",
+      "name": "Burpee 100",
       "class": "Beginner",
       "type": "for time",
       "rounds": 0,
@@ -482,32 +478,29 @@
   
       "workout": [
         { "move": "burpee", "reps": 100 }
-  
-      ]
+      ],
+      "tags": ["burpee", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 9",
+      "name": "Burpee squat",
       "class": "Beginner",
       "type": "for time",
       "rounds": 5,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "burpee", "reps": 20 },
-  
-        { "move": "sit-up", "reps": 10 },
-  
-        { "move": "squat", "reps": 20 }
-  
-       
-          
-      ]
+        { "move": "sit-up", "reps": 10 }, 
+        { "move": "squat", "reps": 20 }      
+      ],
+      "tags": ["burpee", "sit-up", "squat", "for time", "Beginner"], 
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 11",
+      "name": "Box-jump lunge",
       "class": "Beginner",
       "type": "for time",
       "rounds": 0,
@@ -519,14 +512,14 @@
   
         { "move": "walking-lunge", "reps": 50 },
   
-        { "move": "burpee", "reps": 20 }
-  
-          
-      ]
+        { "move": "burpee", "reps": 20 }     
+      ],
+      "tags": ["box-jump", "walking-lunge", "burpee", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 12",
+      "name": "Squat up",
       "class": "Beginner",
       "type": "for time",
       "rounds": 5,
@@ -538,14 +531,14 @@
   
         { "move": "sit-up", "reps": 20 },
   
-        { "move": "push-up", "reps": 20 }
-  
-          
-      ]
+        { "move": "push-up", "reps": 20 }     
+      ],
+      "tags": ["jumping-squat", "sit-up", "push-up", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 13",
+      "name": "Row starter",
       "class": "Beginner",
       "type": "for time",
       "rounds": 0,
@@ -561,14 +554,14 @@
   
         { "move": "push-up", "reps": 30 },
         
-        { "move": "burpee", "reps": 10 }
-  
-          
-      ]
+        { "move": "burpee", "reps": 10 }     
+      ],
+      "tags": ["row", "squat", "sit-up", "push-up", "burpee", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 14",
+      "name": "Plank starter",
       "class": "Beginner",
       "type": "AMRAP",
       "rounds": 0,
@@ -586,14 +579,14 @@
         
         { "move": "bicycle-crunch", "reps": 15 },
   
-        { "move": "squat", "reps": 20 }
-  
-          
-      ]
+        { "move": "squat", "reps": 20 }      
+      ],
+      "tags": ["plank", "bicycle-crunch", "burpee", "squat", "AMRAP", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 15",
+      "name": "Mixed beginner",
       "class": "Beginner",
       "type": "for time",
       "rounds": 3,
@@ -613,14 +606,14 @@
   
         { "move": "plank", "reps": "20s" },
   
-        { "move": "lunge", "reps": 20 }
-  
-          
-      ]
+        { "move": "lunge", "reps": 20 }        
+      ],
+      "tags": ["push-up", "squat", "crunch", "burpee", "jumping-jack", "plank", "lunge", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 16",
+      "name": "Running mixed",
       "class": "Beginner",
       "type": "for time",
       "rounds": 3,
@@ -636,14 +629,14 @@
   
         { "move": "sprint", "reps": "100m" },
         
-        { "move": "squat", "reps": 15 }
-  
-          
-      ]
+        { "move": "squat", "reps": 15 }   
+      ],
+      "tags": ["sprint", "push-up", "linge", "squat", "for time", "Beginner"], 
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 17",
+      "name": "Sit-up jump",
       "class": "Beginner",
       "type": "for time",
       "rounds": 5,
@@ -656,18 +649,18 @@
         { "move": "sit-up", "reps": 15 },
   
         { "move": "jump-squat", "reps": 15 }
-     
-      ]
+      ],
+      "tags": ["push-up", "sit-up", "jump-squat", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 18",
+      "name": "Run plank",
       "class": "Beginner",
       "type": "for time",
       "rounds": 1,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "plank", "reps": "60s" },
   
@@ -679,13 +672,14 @@
   
         { "move": "plank", "reps": "180s" },
   
-        { "move": "jog", "reps": "500m" }
-     
-      ]
+        { "move": "jog", "reps": "500m" } 
+      ],
+      "tags": ["plank", "run", "jog", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 19",
+      "name": "Lunge mixed",
       "class": "Beginner",
       "type": "for time",
       "rounds": 4,
@@ -694,22 +688,20 @@
   
       "workout": [
         { "move": "walking-lunge", "reps": 20 },
-  
         { "move": "push-up", "reps": 20 },
-  
         { "move": "jumping-jack", "reps": 20 }
-  
-      ]
+      ],
+      "tags": ["walking-lunge", "push-up", "jumping-jack", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 20",
+      "name": "Beginner mixed",
       "class": "Beginner",
       "type": "AMRAP",
       "rounds": 0,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "squat", "reps": 20 },
   
@@ -721,33 +713,31 @@
   
         { "move": "lunge", "reps": 10 },
   
-        { "move": "run", "reps": "100m" }
-     
-      ]
+        { "move": "run", "reps": "100m" } 
+      ],
+      "tags": ["squat", "run", "walking-lunge", "push-up", "lunge", "AMRAP", "Beginner"],
+      "userAdded": false
     },
     
     {
-      "name": "Beginner 21",
+      "name": "Beginner jump",
       "class": "Beginner",
       "type": "for time",
       "rounds": 3,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
-        { "move": "vertical-jump", "reps": 15 },
-  
-        { "move": "jumping-jack", "reps": 15 },
-  
+        { "move": "vertical-jump", "reps": 15 }, 
+        { "move": "jumping-jack", "reps": 15 },  
         { "move": "burpee", "reps": 10 },
-  
-        { "move": "push-up", "reps": 15 }
-     
-      ]
+        { "move": "push-up", "reps": 15 }    
+      ],
+      "tags": ["vertical-jump", "jumping-jack", "burpee", "push-up", "for time", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 22",
+      "name": "Skip mixed",
       "class": "Beginner",
       "type": "for time",
       "rounds": 1,
@@ -765,13 +755,14 @@
   
         { "move": "squat", "reps": 20 },
   
-        { "move": "walking-lunge", "reps": 20 }
-     
-      ]
+        { "move": "walking-lunge", "reps": 20 }    
+      ],
+      "tags": ["skip", "vertical-jump", "jumping-jack", "squat", "walking-lunge", "Beginner"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 23",
+      "name": "Squat-jump high-knee",
       "class": "Beginner",
       "type": "AMRAP",
       "rounds": 1,
@@ -788,12 +779,13 @@
         { "move": "squat-jump", "reps": 20 },
   
         { "move": "push-up", "reps": 10 }
-     
-      ]
+      ],
+      "tags": ["sit-up", "reverse-crunch", "high-knee", "squat-jump", "push-up"],
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 24",
+      "name": "Jump burpee",
       "class": "Beginner",
       "type": "for time",
       "rounds": 7,
@@ -801,19 +793,17 @@
       "rest": 0,
   
       "workout": [
-        { "move": "burpee", "reps": 7 },
-  
+        { "move": "burpee", "reps": 7 }, 
         { "move": "squat", "reps": 7 },
-  
         { "move": "sit-up", "reps": 7 },
-  
         { "move": "jumping-jack", "reps": 7 }
-     
-      ]
+      ],
+      "tags": ["burpee", "squat", "sit-up", "jumping-jack", "for time", "Beginner"], 
+      "userAdded": false
     },
   
     {
-      "name": "Beginner 25",
+      "name": "Plank jump",
       "class": "Beginner",
       "type": "for time",
       "rounds": 3,
@@ -827,9 +817,10 @@
   
         { "move": "plank", "reps": "90s" },
   
-        { "move": "vertical-jump", "reps": 20 }
-     
-      ]
+        { "move": "vertical-jump", "reps": 20 }  
+      ], 
+      "tags": ["plank", "burpee", "vertical-jump", "for time", "Beginner"],
+      "userAdded": false
     },
   
   
@@ -841,15 +832,13 @@
       "rounds": "21-15-9 reps",
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "HSPU", "reps": "descending" },
-  
-        { "move": "ring-dip", "reps": "descending" },
-  
-        { "move": "push-up", "reps": "descending" }
-          
-      ]
+        { "move": "ring-dip", "reps": "descending" }, 
+        { "move": "push-up", "reps": "descending" }         
+      ],
+      "tags": ["HSPU", "ring-dip", "push-up", "for time", "Benchmark", "JT"],
+      "userAdded": false
     },
   
     {
@@ -859,15 +848,13 @@
       "rounds": 3,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
-        { "move": "run", "reps": "800m" },
-  
+        { "move": "run", "reps": "800m" },  
         { "move": "back-extension", "reps": 50 },
-  
-        { "move": "sit-up", "reps": 50 }
-          
-      ]
+        { "move": "sit-up", "reps": 50 }         
+      ],
+      "tags": ["run", "back-extension", "sit-up", "for time", "Benchmark", "Michael"],
+      "userAdded": false
     },
   
   
@@ -881,16 +868,13 @@
   
       "workout": [
         { "move": "run", "reps": "1 mile" },
-  
-        { "move": "pull-up", "reps": 100 },
-  
+        { "move": "pull-up", "reps": 100 }, 
         { "move": "push-up", "reps": 200 },
-  
         { "move": "squat", "reps": 300 },
-  
-        { "move": "run", "reps": "1 mile" }
-          
-      ]
+        { "move": "run", "reps": "1 mile" }        
+      ],
+      "tags": ["run", "pull-up", "push-up", "squat", "for time", "Benchmark", "Murph"],
+      "userAdded": false 
     },
   
     {
@@ -903,20 +887,15 @@
   
       "workout": [
         { "move": "pull-up", "reps": 50 },
-  
         { "move": "run", "reps": "400m" },
-  
         { "move": "thruster", "reps": 21 },
-  
         { "move": "run", "reps": "800m" },
-  
         { "move": "thruster", "reps": 21 },
-  
-        { "move": "run", "reps": "400m" },
-  
-        { "move": "pull-up", "reps": 50 }
-          
-      ]
+        { "move": "run", "reps": "400m" }, 
+        { "move": "pull-up", "reps": 50 }         
+      ],
+      "tags": ["pull-up", "run", "thruster", "for time", "Benchmark", "Daniel"], 
+      "userAdded": false
     },
   
     {
@@ -929,18 +908,14 @@
   
       "workout": [
         { "move": "OHS", "reps": 21 },
-  
         { "move": "pull-up", "reps": 42 },
-  
         { "move": "OHS", "reps": 15 },
-  
         { "move": "pull-up", "reps": 30 },
-  
         { "move": "OHS", "reps": 9 },
-  
-        { "move": "pull-up", "reps": 18 }
-          
-      ]
+        { "move": "pull-up", "reps": 18 }       
+      ], 
+      "tags": ["OHS", "pull-up", "for time", "Benchmark", "Josh"],
+      "userAdded": false
     },
   
     {
@@ -953,22 +928,16 @@
   
       "workout": [
         { "move": "squat", "reps": 100 },
-  
         { "move": "muscle-up", "reps": 5 },
-  
         { "move": "squat", "reps": 75 },
-  
         { "move": "muscle-up", "reps": 10 },
-  
         { "move": "squat", "reps": 50 },
-  
         { "move": "muscle-up", "reps": 15 },
-  
         { "move": "squat", "reps": 15 },
-  
-        { "move": "muscle-up", "reps": 20 }
-          
-      ]
+        { "move": "muscle-up", "reps": 20 }          
+      ],
+      "tags": ["squat", "muscle-up", "for time", "Benchmark", "Jason"],
+      "userAdded": false
     },
   
     {
@@ -984,10 +953,10 @@
   
         { "move": "pull-up", "reps": 30 },
   
-        { "move": "run", "reps": "800m" }
-  
-          
-      ]
+        { "move": "run", "reps": "800m" }      
+      ],
+      "tags": ["squat-clean", "pull-up", "run", "for time", "Benchmark", "Badger"],
+      "userAdded": false
     },
   
   
@@ -998,16 +967,13 @@
       "rounds": 3,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "DB-snatch", "reps": 42 },
-  
         { "move": "L pull-up", "reps": 21 },
-  
-        { "move": "run", "reps": "800m" }
-  
-          
-      ]
+        { "move": "run", "reps": "800m" }        
+      ],
+      "tags": ["DB-snatch", "L pull-up", "run", "for time", "Benchmark", "Joshie"],
+      "userAdded": false
     },
   
   
@@ -1017,17 +983,14 @@
       "type": "AMRAP",
       "rounds": 0,
       "time cap": 20,
-      "rest": 0,
-  
+      "rest": 0, 
       "workout": [
-        { "move": "muscle-up", "reps": 2 },
-  
-        { "move": "HSPU", "reps": 4 },
-  
-        { "move": "KB-swing", "reps": 8 }
-  
-          
-      ]
+        { "move": "muscle-up", "reps": 2 }, 
+        { "move": "HSPU", "reps": 4 }, 
+        { "move": "KB-swing", "reps": 8 }       
+      ],
+      "tags": ["muscle-up", "HSPU", "KB-swing", "AMRAP", "Benchmark", "Nate"],
+      "userAdded": false
     },
   
     {
@@ -1049,10 +1012,10 @@
   
         { "move": "thruster", "reps": 9 },
   
-        { "move": "rope-climb", "reps": 6 }
-  
-          
-      ]
+        { "move": "rope-climb", "reps": 6 }      
+      ],
+      "tags": ["thruster", "rope-climb", "for time", "Benchmark", "Tommy V"],
+      "userAdded": false
     },
   
     {
@@ -1070,10 +1033,10 @@
   
         { "move": "run", "reps": "800m" },
   
-        { "move": "run", "reps": "400m backwards" }
-  
-          
-      ]
+        { "move": "run", "reps": "400m backwards" }       
+      ],
+      "tags": ["run", "for time", "Benchmark", "Griff"], 
+      "userAdded": false
     },
   
     {
@@ -1082,14 +1045,13 @@
       "type": "for time",
       "rounds": 5,
       "time cap": 0,
-      "rest": 0,
-  
+      "rest": 0, 
       "workout": [
         { "move": "muscle-up", "reps": 7},
-  
-        { "move": "burpee", "reps": 21 }
-          
-      ]
+        { "move": "burpee", "reps": 21 }          
+      ],
+      "tags": ["muscle-up", "burpee", "for time", "Benchmark", "Ryan"], 
+      "userAdded": false
     },
   
     {
@@ -1099,13 +1061,12 @@
       "rounds": 5,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
-        { "move": "DB split-clean", "reps": 15},
-  
-        { "move": "pull-up", "reps": 21 }
-          
-      ]
+        { "move": "DB split-clean", "reps": 15}, 
+        { "move": "pull-up", "reps": 21 }        
+      ],
+      "tags": ["DB split-clean", "pull-up", "for time", "Benchmark", "Erin"],
+      "userAdded": false
     },
   
     {
@@ -1115,15 +1076,13 @@
       "rounds": 5,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "run", "reps": "400m"},
-  
         { "move": "glute-ham sit-up", "reps": 30 },
-  
-        { "move": "deadlift", "reps": 15 }
-          
-      ]
+        { "move": "deadlift", "reps": 15 }      
+      ],
+      "tags": ["run", "glute-ham", "sit-up", "deadlift", "for time", "Benchmark", "Mr Joshua"],
+      "userAdded": false
     },
   
     {
@@ -1133,15 +1092,13 @@
       "rounds": 5,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "deadlift", "reps": 12},
-  
         { "move": "power clean", "reps": 9 },
-  
-        { "move": "push jerk", "reps": 6 }
-          
-      ]
+        { "move": "push jerk", "reps": 6 }       
+      ],
+      "tags": ["deadlift", "power clean", "push jerk", "for time", "Benchmark", "DT"],
+      "userAdded": false
     },
   
     {
@@ -1151,15 +1108,15 @@
       "rounds": "max",
       "time cap": 20,
       "rest": 0,
-  
       "workout": [
         { "move": "box-jump", "reps": 30},
   
         { "move": "push press", "reps": 20 },
   
-        { "move": "pull-up", "reps": 30 }
-          
-      ]
+        { "move": "pull-up", "reps": 30 }       
+      ],
+      "tags": ["box-jump", "push-press", "pull-up", "max rounds", "Benchmark", "Danny"],
+      "userAdded": false
     },
   
     {
@@ -1173,11 +1130,12 @@
       "workout": [
         { "move": "KB swing", "reps": 30},
   
-        { "move": "burpees", "reps": 30 },
+        { "move": "burpee", "reps": 30 },
   
-        { "move": "sit-up", "reps": 30 }
-          
-      ]
+        { "move": "sit-up", "reps": 30 }     
+      ],
+      "tags": ["KB swing", "burpee", "sit-up", "for time", "Benchmark", "Hansen"], 
+      "userAdded": false
     },
   
     {
@@ -1189,13 +1147,11 @@
       "rest": 0,
   
       "workout": [
-        { "move": "muscle-up", "reps": 7},
-  
-        { "move": "sumo deadlift high", "reps": 21 }
-  
-        
-          
-      ]
+        { "move": "muscle-up", "reps": 7}, 
+        { "move": "sumo deadlift high", "reps": 21 }   
+      ],
+      "tags": ["muscle-up", "sumo deadlift high", "for time", "Benchmark", "Tyler"],
+      "userAdded": false
     },
   
     {
@@ -1207,37 +1163,23 @@
       "rest": 0,
   
       "workout": [
-        { "move": "deadlifts", "reps": 20},
-  
+        { "move": "deadlift", "reps": 20},
         { "move": "run", "reps": "400m" },
-  
         { "move": "KB swing", "reps": 20},
-  
         { "move": "run", "reps": "400m" },
-  
         { "move": "OHS", "reps": 20},
-  
         { "move": "run", "reps": "400m" },
-  
         { "move": "burpee", "reps": 20},
-  
         { "move": "run", "reps": "400m" },
-  
         { "move": "pull-up", "reps": 20},
-  
         { "move": "run", "reps": "400m" },
-  
         { "move": "box jump", "reps": 20},
-  
         { "move": "run", "reps": "400m" },
-  
         { "move": "DB squat clean", "reps": 20},
-  
-        { "move": "run", "reps": "400m" }
-  
-        
-          
-      ]
+        { "move": "run", "reps": "400m" } 
+      ],
+      "tags": ["deadlift", "run", "KB swing", "OHS", "burpee", "pull-up", "box jump", "DB squat clean", "for time", "Benchmark", "Lumber Jack 20"],
+      "userAdded": false
     },
   
     {
@@ -1256,10 +1198,10 @@
         { "move": "knees to elbow", "reps": "descending"},
   
         { "move": "deadlift", "reps": "descending"}
-  
         
-          
-      ]
+      ],
+      "tags": ["GHD sit-up", "back-extension", "knees to elbow", "deadlift", "for time", "Benchmark", "Stephen"],
+      "userAdded": false
     },
   
     {
@@ -1275,11 +1217,10 @@
   
         { "move": "ring handstand push-up", "reps": 25 },
   
-        { "move": "L pull-up", "reps": 25}
-  
-        
-          
-      ]
+        { "move": "L pull-up", "reps": 25}       
+      ],
+      "tags": ["squat", "ring handstand push-up", "L pull-up", "for time", "Benchmark", "Garret"], 
+      "userAdded": false
     },
   
     {
@@ -1295,11 +1236,10 @@
   
         { "move": "squat", "reps": 100 },
   
-        { "move": "GHD sit-up", "reps": 35}
-  
-        
-          
-      ]
+        { "move": "GHD sit-up", "reps": 35}     
+      ],
+      "tags": ["muscle-up", "squat", "GHD sit-up", "for time", "Benchmark", "War Frank"],
+      "userAdded": false
     },
   
     {
@@ -1312,14 +1252,11 @@
   
       "workout": [
         { "move": "deadlift", "reps": 5},
-  
         { "move": "push-up", "reps": 13 },
-  
-        { "move": "box-jump", "reps": 9}
-  
-        
-          
-      ]
+        { "move": "box-jump", "reps": 9}        
+      ], 
+      "tags": ["deadlift", "push-up", "box-jump", "max rounds", "Benchmark", "McGhee"], 
+      "userAdded": false
     },
   
     {
@@ -1335,11 +1272,10 @@
   
         { "move": "knees to elbows", "reps": 35 },
   
-        { "move": "overhead walk", "reps": "20 m"}
-  
-        
-          
-      ]
+        { "move": "overhead walk", "reps": "20 m"}      
+      ],
+      "tags": ["double unders", "knees to elbow", "overhead walk", "for time", "Benchmark", "Paul"], 
+      "userAdded": false
     },
   
     {
@@ -1355,11 +1291,11 @@
   
         { "move": "row", "reps": "2k" },
   
-        { "move": "run", "reps": "1 mile"}
-  
-        
+        { "move": "run", "reps": "1 mile"}  
           
-      ]
+      ], 
+      "tags": ["run", "row", "for time", "Benchmark", "Jerry"], 
+      "userAdded": false
     },
   
     {
@@ -1369,7 +1305,6 @@
       "rounds": 0,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "HSPU", "reps": 10},
   
@@ -1381,13 +1316,12 @@
   
         { "move": "wall-ball", "reps": 100},
   
-        { "move": "double-under", "reps": 200 },
+        { "move": "double-unders", "reps": 200 },
   
-        { "move": "run with a plate", "reps": "400m"}
-  
-        
-          
-      ]
+        { "move": "run with a plate", "reps": "400m"}     
+      ], 
+      "tags": ["HSPU", "deadlifit", "box-jump", "pull-up", "wall-ball", "double-unders", "run", "for time", "Benchmark", "Nutts"], 
+      "userAdded": false
     },
   
     {
@@ -1412,14 +1346,14 @@
         { "move": "KB swing", "reps": 7 },
   
         { "move": "pull-up", "reps": 7}
-  
-        
-          
-      ]
+       
+      ], 
+      "tags": ["HSPU", "thruster", "knees to elbows", "deadlift", "burpee", "KB swing", "pull-up", "for time", "Benchmark", "The Seven"],
+      "userAdded": false
     },
   
     {
-      "name": "No Equip 6",
+      "name": "Bodyweight push-up",
       "class": "Bodyweight",
       "type": "for time",
       "rounds": 0,
@@ -1439,14 +1373,16 @@
   
         { "move": "knuckle push-up", "reps": 25},
   
-        { "move": "walking lunges", "reps": 50 },
+        { "move": "walking lunge", "reps": 50 },
   
         { "move": "diamond push-up", "reps": 25} 
-      ]
+      ], 
+      "tags": ["squat", "push-up", "pistol-squat", "fingertip push-up", "side lunges", "knuckle push-up", "walking lunge", "diamond push-up", "for time", "Bodyweight"],
+      "userAdded": false
     },
   
     {
-      "name": "No Equip 7",
+      "name": "Run sit-up",
       "class": "Bodyweight",
       "type": "for time",
       "rounds": 0,
@@ -1456,7 +1392,7 @@
       "workout": [
         { "move": "flutterkick", "reps": 50},
   
-        { "move": "situp", "reps": 50 },
+        { "move": "sit-up", "reps": 50 },
   
         { "move": "run", "reps": "400m"},
   
@@ -1464,14 +1400,14 @@
   
         { "move": "sit-up", "reps": 100 },
   
-        { "move": "run", "reps": "400m"}
-  
-         
-      ]
+        { "move": "run", "reps": "400m"}  
+      ], 
+      "tags": ["flutterkick", "run", "sit-up", "for time", "Bodyweight"],
+      "userAdded": false
     },
   
     {
-      "name": "No Equip 9",
+      "name": "Push-up kick",
       "class": "Bodyweight",
       "type": "for time",
       "rounds": 4,
@@ -1479,16 +1415,12 @@
       "rest": 0,
   
       "workout": [
-  
         { "move": "push-up", "reps": 50 },
-  
         { "move": "sit-up", "reps": 50},
-  
-        { "move": "fluterkicks", "reps": 50}
-  
-        
-          
-      ]
+        { "move": "flutterkick", "reps": 50}        
+      ],
+      "tags": ["push-up", "sit-up", "flutterkick"],
+      "userAdded": false
     },
   
     {
@@ -1504,31 +1436,29 @@
   
         { "move": "sit-up", "reps": 15 },
   
-        { "move": "walking lunge", "reps": "20m"}
-        
-          
-      ]
+        { "move": "walking lunge", "reps": "20m"}     
+      ], 
+      "tags": ["push-up", "sit-up", "walking lunge"],
+      "userAdded": false
     },
   
     {
-      "name": "No Equip 13",
+      "name": "Mountain climber",
       "class": "Bodyweight",
       "type": "for time",
       "rounds": 5,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "mountain climber", "reps": 50},
-  
-        { "move": "sit-up", "reps": 50 }
-        
-          
-      ]
+        { "move": "sit-up", "reps": 50 }      
+      ], 
+      "tags": ["mountain climber", "sit-up", "for time", "Bodyweight"],
+      "userAdded": false 
     },
   
     {
-      "name": "No Equip 14",
+      "name": "Jump climb",
       "class": "Bodyweight",
       "type": "for time",
       "rounds": 5,
@@ -1538,20 +1468,19 @@
       "workout": [
         { "move": "jumping jack", "reps": 100},
   
-        { "move": "mountain climber", "reps": 100 }
-        
-          
-      ]
+        { "move": "mountain climber", "reps": 100 }     
+      ],
+      "tags": ["jumping jack", "mountain climber", "for time", "Bodyweight"],
+      "userAdded": false
     },
   
     {
-      "name": "No Equip 16",
+      "name": "Superman squat",
       "class": "Bodyweight",
       "type": "for time",
       "rounds": 50,
       "time cap": 0,
       "rest": 0,
-  
       "workout": [
         { "move": "squat", "reps": 1},
   
@@ -1561,17 +1490,15 @@
   
         { "move": "superman", "reps": 1},
   
-        { "move": "tuck jump", "reps": 1}
-  
-       
-        
-          
-      ]
+        { "move": "tuck jump", "reps": 1}      
+      ],
+      "tags": ["squat", "push-up", "sit-up", "superman", "tuck jump", "for time", "Bodyweight"],
+      "userAdded": false
     },
   
   
     {
-      "name": "No Equip 17",
+      "name": "Jump workout",
       "class": "Bodyweight",
       "type": "for time",
       "rounds": 0,
@@ -1592,11 +1519,10 @@
         { "move": "squat", "reps": 50},
   
         { "move": "jumping jack", "reps": 50}
-  
        
-        
-          
-      ]
+      ],
+      "tags": ["jumping-jack", "push-up", "tuck jump", "mountain climber", "squat", "sit-up"],
+      "userAdded": false
     },
   
     {
@@ -1615,10 +1541,10 @@
         { "move": "burpee", "reps": 5},
   
         { "move": "fingertip push-up", "reps": 5}
-  
-  
           
-      ]
+      ],
+      "tags": ["burpee", "chest-slap", "push-up", "fingertip"],
+      "userAdded": false
     }
   
     
